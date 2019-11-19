@@ -1,8 +1,6 @@
 #!/bin/bash
-#author         : ./Lolz
-#thanks to      : JavaGhost - Bashid.org
-#recode tinggal recode aja okeh?, tapi cantumin source Y tolol h3h3
-#Yamaap kalau scriptnya acak"an:(
+#author Mr Bell
+#ciee udh decrypt :v
 
 #color(bold)
 red='\e[1;31m'
@@ -13,16 +11,33 @@ magenta='\e[1;35m'
 cyan='\e[1;36m'
 white='\e[1;37m'
 
-#thread limit => kurangin lebih kecil angkanya boleh, naikin? saran w jangan... awokwowok:v
+#thread limit => Jangan naikin,tapi boleh kurang :v
 limit=100
 
 #banner
-echo -e $'''
-                _  __       _ 
-__     | _|_ o |_)|_     o (_|
-||||_| |  |_ | |_)|  ___ | __|
-\e[1;31mcontact: https://fb.me/n00b.me\e[1;37m
-'''
+echo -e $''' \e[1;31m
+         _,met$$$$$gg.           
+      ,g$$$$$$$$$$$$$$$P.        
+    ,g$$P""       """Y$$.".      
+   ,$$P'              `$$$.      
+  ',$$P       ,ggs.     `$$b:    
+  `d$$'     ,$P"'   .    $$$     
+   $$P      d$'     ,    $$P     
+   $$:      $$.   -    ,d$$'     
+   $$\;      Y$b._   _,d$P'      
+   Y$$.    `.`"Y$$$$P"'          
+   `$$b      "-.__
+    `Y$$
+     `Y$$.
+       `$$b.
+         `Y$$b.
+            `"Y$b._
+                `""""
+|Version   : V.1            |
+|Team      : 22XploiterCrew |
+|Author    : Mr.Bell        |
+|IG        : the_hackid     |
+# MULTI BRUTE FORCE FOR IG#\e[1;33m'''
 
 #dependencies
 dependencies=( "jq" "curl" )
@@ -36,8 +51,8 @@ done
 
 #menu
 echo -e '''
-1]. Get target from specific \e[1;31m@username\e[1;37m
-2]. Get target from specific \e[1;31m#hashtag\e[1;37m
+1]. Get target from specific \e[1;31m@username\e[1;31m
+2]. Get target from specific \e[1;31m#hashtag\e[1;31m
 3]. Crack from your target list
 '''
 
