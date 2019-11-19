@@ -16,19 +16,19 @@ limit=100
 
 #banner
 clear
-echo   "        █████████         
-echo   "        █▄█████▄█         
-echo   "        █ ▼▼▼▼▼  _-_--.    
-echo   "        █.    _-_-- -_ -- 
-echo   "        █ ▲▲▲▲▲   -_ -        
-echo   "        █████████         
-echo   "          ██ ██               
+echo   "        █████████          "   
+echo   "        █▄█████▄█          "
+echo   "        █ ▼▼▼▼▼  _-_--.    "
+echo   "        █.    _-_-- -_ --  "
+echo   "        █ ▲▲▲▲▲   -_ -     "  
+echo   "        █████████          "
+echo   "          ██ ██            "  
 echo   ""
-echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●       
-echo   "  MR.BELL-22XploiterCrew        
-echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●        
-echo   "          HACK IG                
-echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●        
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
+echo   "  MR.BELL-22XploiterCrew   "   
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
+echo   "          HACK IG           "    
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
 dependencies=( "jq" "curl" )
