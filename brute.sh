@@ -15,6 +15,7 @@ white='\e[1;37m'
 limit=100
 
 #banner
+clear
 echo   "        █████████         
 echo   "        █▄█████▄█         
 echo   "        █ ▼▼▼▼▼  _-_--.    
