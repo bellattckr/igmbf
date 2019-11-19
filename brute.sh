@@ -15,14 +15,19 @@ white='\e[1;37m'
 limit=100
 
 #banner
-echo $b"============================================="
-echo   "Team       : 22 EXPLOITER CREW  $white" |lolcat
-echo   "Created by : Mr.Bell $white" |lolcat
-echo   "Contact    : 0895611923415 $white" |lolcat
-echo   "Instagram  : @the_hackid $white" |lolcat
-echo   "BLOG       : https://hackid.ga $white" |lolcat
-echo   "Tools      : Auto multi brute force IG $white" |lolcat
-echo $b"============================================="
+echo   "        █████████            $red" 
+echo   "        █▄█████▄█         $yellow" 
+echo   "        █ ▼▼▼▼▼  _-_--.      $red"
+echo   "        █.    _-_-- -_ -- $yellow" 
+echo   "        █ ▲▲▲▲▲   -_ -       $red" 
+echo   "        █████████         $yellow"
+echo   "          ██ ██               $red"
+echo   ""
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●        $yellow"
+echo   "  MR.BELL-22XploiterCrew        $white"
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●        $red"
+echo   "          HACK IG                $white"
+echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●        $yellow"
 
 #dependencies
 dependencies=( "jq" "curl" )
