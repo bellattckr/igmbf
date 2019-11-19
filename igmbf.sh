@@ -1,6 +1,6 @@
 #!/bin/bash
 #author Mr Bell
-#ciee udh decrypt :v
+
 
 #color(bold)
 red='\e[1;31m'
