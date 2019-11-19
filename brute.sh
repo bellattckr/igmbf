@@ -15,31 +15,14 @@ white='\e[1;37m'
 limit=100
 
 #banner
-echo -e $''' \033[96m	
-         _,met$$$$$gg.           
-      ,g$$$$$$$$$$$$$$$P.        
-    ,g$$P""       """Y$$.".      
-   ,$$P'              `$$$.      
-  ',$$P       ,ggs.     `$$b:    
-  `d$$'     ,$P"'   .    $$$     
-   $$P      d$'     ,    $$P     
-   $$:      $$.   -    ,d$$'     
-   $$\;      Y$b._   _,d$P'      
-   Y$$.    `.`"Y$$$$P"'          
-   `$$b      "-.__
-    `Y$$
-     `Y$$.
-       `$$b.
-         `Y$$b.
-            `"Y$b._
-                `""""
-|Version   : V.1(Beta)         |
-|Team      : 22XploiterCrew    |
-|Create by : Mr.Bell           |
-|Blog      : hackid.ga         |
-|Site Team : 22xploitercrew.com|
-#   AUTO MULTI BRUTE FORCE IG  # \n 
-	\033[91m'''
+echo $b"============================================="
+echo   "Team       : 22 EXPLOITER CREW  $white" |lolcat
+echo   "Created by : Mr.Bell $white" |lolcat
+echo   "Contact    : 0895611923415 $white" |lolcat
+echo   "Instagram  : @the_hackid $white" |lolcat
+echo   "BLOG       : https://hackid.ga $white" |lolcat
+echo   "Tools      : Auto multi brute force IG $white" |lolcat
+echo $b"============================================="
 
 #dependencies
 dependencies=( "jq" "curl" )
