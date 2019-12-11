@@ -25,9 +25,9 @@ echo   "        █████████          "
 echo   "          ██ ██            "  
 echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
-echo   "  MR.BELL-22XploiterCrew   "   
+echo   "       DRAGON ROAR          "   
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
-echo   "          HACK IG           "    
+echo   "          JUNA              "    
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
