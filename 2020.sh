@@ -17,13 +17,11 @@ echo -e "${red}SELAMAT DATANG DI PROGRAM PENGHAPUSAN KENANGAN"
 sleep 2
 echo   ""
 echo -e "${yellow}KAMI AKAN MEMBANTU ANDA MENGHAPUS KENANGAN DI 2019"
-
-sleep 2
-echo   "SELAMAT DATANG DI PROGRAM PENGHAPUSAN KENANGAN"
 sleep 2
 clear
 
 echo -e "${red}TULIS KENANGAN YANG MAU DI HAPUS"
+echo   ""
 read kenangan
 echo   ""
 if [ "$kenangan" == "KENANGAN DENGAN MANTAN" ]; then
