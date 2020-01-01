@@ -10,6 +10,8 @@ cyan='\e[1;36m'
 white='\e[1;37m'
 
 clear
+echo -e "${red}HAPPY NEW YEAR"
+sleep 2
 figlet 2020
 sleep 2
 echo   ""
@@ -25,8 +27,8 @@ echo   ""
 read kenangan
 echo   ""
 if [ "$kenangan" == "KENANGAN DENGAN MANTAN" ]; then
-  echo   ""
-  sleep 2
+sleep 2
+clear
  echo -e "${white}MAAF PROSES PENGHAPUSAN GAGAL"
  echo   ""
 sleep 2
