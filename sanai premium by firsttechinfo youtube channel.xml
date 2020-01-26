@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-<!--- Template Downloaded From First Tech Info YouTube Channel Or Visit firsttechinfoar.blpgspot.com --->
+
 <!-- SEO Meta Tags -->
 <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
 <b:if cond='data:blog.pageType == &quot;item&quot; and data:blog.url == data:blog.homepageUrl'>
